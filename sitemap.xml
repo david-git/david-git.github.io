@@ -3,22 +3,22 @@
   
   
   <url>
-    <loc>http://yoursite.com/blog/2014/07/07/hello-world/</loc>
+    <loc>http://david-git.github.io/blog/2014/07/07/hello-world/</loc>
     <lastmod>2014-07-07T17:36:50+08:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://yoursite.com/blog/archives/</loc>
-    <lastmod>2014-07-07T17:37:06+08:00</lastmod>
+    <loc>http://david-git.github.io/blog/archives/</loc>
+    <lastmod>2014-07-07T18:24:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2014-07-07T17:37:06+08:00</lastmod>
+    <loc>http://david-git.github.io/</loc>
+    <lastmod>2014-07-07T18:24:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
