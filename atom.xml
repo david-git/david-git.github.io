@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[David's Blog]]></title>
-  <link href="http://david-git.github.io/atom.xml" rel="self"/>
-  <link href="http://david-git.github.io/"/>
-  <updated>2014-07-07T18:24:36+08:00</updated>
-  <id>http://david-git.github.io/</id>
+  <link href="http://www.yechuanwei.com/atom.xml" rel="self"/>
+  <link href="http://www.yechuanwei.com/"/>
+  <updated>2014-07-09T21:12:40+08:00</updated>
+  <id>http://www.yechuanwei.com/</id>
   <author>
     <name><![CDATA[David]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://david-git.github.io/blog/2014/07/07/hello-world/"/>
+    <link href="http://www.yechuanwei.com/blog/2014/07/07/hello-world/"/>
     <updated>2014-07-07T17:36:50+08:00</updated>
-    <id>http://david-git.github.io/blog/2014/07/07/hello-world</id>
+    <id>http://www.yechuanwei.com/blog/2014/07/07/hello-world</id>
     <content type="html"><![CDATA[<h2>Hello World</h2>
 
 <ul>

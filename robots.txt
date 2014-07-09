@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://david-git.github.io/sitemap.xml 
+Sitemap: http://www.yechuanwei.com/sitemap.xml 
